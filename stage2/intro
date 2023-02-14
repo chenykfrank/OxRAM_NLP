@@ -1,1 +1,6 @@
-a brief demo of IE is demonstrated here. Only accept input with format 'Move {piece} from {Place} to {Place}'. More abilities would be added later.
+# Intro
+A brief demo of IE is demonstrated here. 
+
+Only accept input with format 'Move {piece} from {Place} to {Place}'. 
+
+More abilities would be added later.
