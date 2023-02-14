@@ -10,3 +10,5 @@ The second stage is about information extraction(IE). Check this in stage2 folde
 The third stage is visualization and building a virtual chessboard.
 
 The fourth stage is to set up the api for the whole project. Possibly achieved by interative website.
+
+The nlp.py is the combination of all models so far. It shall always be updated to latest version.
